@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_page_modules",
+  "info": {
+    "name": "modules",
+    "icon": "pager"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "subtitle": {
+      "type": "string",
+      "required": true
+    },
+    "descritpion": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
